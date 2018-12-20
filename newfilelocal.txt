@@ -1,0 +1,6 @@
+file1.txt
+file3.txt
+file4.txt
+logs/
+newfilelocal.txt
+README.txt

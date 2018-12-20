@@ -1,0 +1,15 @@
+ Volume in drive C is OS
+ Volume Serial Number is 1844-7FF2
+
+ Directory of C:\Users\mark.warner\git\plurlsitefund
+
+12/20/2018  08:19 AM    <DIR>          .
+12/20/2018  08:19 AM    <DIR>          ..
+12/19/2018  07:42 PM                 4 .gitignore
+12/19/2018  07:27 PM               416 file1.txt
+12/19/2018  07:32 PM               455 file3.txt
+12/20/2018  08:19 AM                 0 file4.txt
+12/19/2018  07:40 PM    <DIR>          logs
+12/19/2018  07:35 PM                48 README.txt
+               5 File(s)            923 bytes
+               3 Dir(s)  59,453,845,504 bytes free
